@@ -1,6 +1,7 @@
-# Ola mundo
- Nosso primeiro ola mundo
+**Atualização** do ~~README~~ em sala de aula *FATEC OURINHOS*
 
- Boa tarde, esse é um minicurdo de GIt e GITHUB.
 
-Falei boa tarde, mais ninguem me respondeu
+esse eh meu codigo ```printf("Eu sou feliz);```
+
+felipe😄
+fernanda🧑‍🚀
